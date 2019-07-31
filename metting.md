@@ -18,7 +18,7 @@
 	- 报警信息推送到对应工作人员以及该媒体点位的管理员的移动应用上
 	- 工作人员修复故障后，手持移动应用上报处理数据（后台存储该条维修记录的全部信息）
 	- 平台展示报警信息（展示形式如图）
-		![](https://zhenlimarket.oss-cn-shenzhen.aliyuncs.com/station.png)
+		![](https://github.com/ketaoonline/meeting/blob/master/station.png)
 		- 报警类型区分
 		- 可按站点或媒体点位统计（天/小时）报警次数（柱状图或者折线图）
 		
